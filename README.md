@@ -8,13 +8,15 @@ project leverages machine learning techniques, specifically Convolutional Neural
 distinguishing between real and deepfake content.
 Methodology
 1. Data Collection: Gathered a comprehensive dataset of real and deepfake images/videos.
+   
    for dataset:please refer to the shared Google Drive link provided below.
+   
                https://drive.google.com/drive/folders/1j2Ec01IxuepGL5PjQjTkuGb31MUgTNL6?usp=sharing
-3. Feature Extraction: Employed advanced techniques to extract relevant features.
-4. Model Selection: Chose a Convolutional Neural Network (CNN) for its eﬀectiveness in image
+4. Feature Extraction: Employed advanced techniques to extract relevant features.
+5. Model Selection: Chose a Convolutional Neural Network (CNN) for its eﬀectiveness in image
 analysis.
-5. Training: Trained the model on labeled data to recognize patterns.
-6. Testing: Evaluated the model's performance on unseen data.
+6. Training: Trained the model on labeled data to recognize patterns.
+7. Testing: Evaluated the model's performance on unseen data.
 Results
 1. -
 Accuracy: The model achieved an accuracy of in distinguishing between real and deepfake
